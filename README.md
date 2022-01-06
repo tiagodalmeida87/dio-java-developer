@@ -6,14 +6,16 @@ O Bootcamp Cognizant Java Developer foi pensado exclusivamente para o seu desenv
 
 
 ---
-## Desafios 👊
+## Aprendizagem e Desafios 👊
 
   - [Desafio - GitHub](https://github.com/tiagodalmeida87/dio-java-developer/tree/main/Desafio%20GitHub)
+  - [Aula - Dominado IDEs Java](https://github.com/tiagodalmeida87/dio-java-developer/tree/main/primeiro-programa-java)
 
 ---
 ## Certificados 📝
 
   - [Estrutura de Dados e Algoritmos](https://github.com/tiagodalmeida87/dio-java-developer/tree/main/img/Certificados)
+  - [Dominando IDEs Java]()
 
 ---
 ## Agradecimentos 👏
