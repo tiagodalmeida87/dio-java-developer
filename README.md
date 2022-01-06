@@ -15,7 +15,7 @@ O Bootcamp Cognizant Java Developer foi pensado exclusivamente para o seu desenv
 ## Certificados 📝
 
   - [Estrutura de Dados e Algoritmos](https://github.com/tiagodalmeida87/dio-java-developer/tree/main/img/Certificados)
-  - [Dominando IDEs Java]()
+  - [Dominando IDEs Java](https://github.com/tiagodalmeida87/dio-java-developer/blob/main/img/Certificados/Dominando%20IDEs%20Java.jpg)
 
 ---
 ## Agradecimentos 👏
